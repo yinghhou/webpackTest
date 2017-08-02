@@ -1,5 +1,5 @@
 {
-  "name": "webpack",
+  "name": "webpacklist",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yinghhou/webpackTest/issues"
   },
-  "homepage": "https://github.com/yinghhou/webpackTest#readme"
+  "homepage": "https://github.com/yinghhou/webpackTest#readme",
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
 }
